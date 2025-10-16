@@ -1,4 +1,4 @@
-﻿<%@ Page Language="VB" AutoEventWireup="false" CodeFile="Default2.aspx.vb" Inherits="Default2" %>
+﻿<%@ Page Language="VB" AutoEventWireup="false" CodeFile="SingleTrip_DepartureArrival.aspx.vb" Inherits="SingleTrip_DepartureArrival" %>
 
 <!DOCTYPE html>
 
